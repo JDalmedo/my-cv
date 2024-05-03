@@ -1,0 +1,40 @@
+.projects {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .projects > ul {
+    display: grid;
+    padding: 1rem;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    grid-auto-rows: 400px;
+    gap: 2rem;
+  }
+  
+  .projects li {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.5rem;
+    
+  }
+  
+  .projects img {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 85%;
+    height: 500px;
+    margin-bottom: 20px;
+    
+  }
+  
+  .projects a {
+    margin-top: 15px;
+    padding: 2px 8px;
+    background-color: var(--heading);
+    color: var(--background);
+  }
+  

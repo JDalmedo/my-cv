@@ -17,6 +17,8 @@ const template = () => {
     </ul>
       <p>${data.aboutMe}</p>
       <p>${data.address}</p>
+      <p>${data.email}</p>
+      <p>${data.telephone}</p>
       
     </section>
   `;

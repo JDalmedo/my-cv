@@ -3,7 +3,7 @@ import "./Footer.css";
 const template = () => {
   return `
   <footer>
-    <p>©️ Created by JuanJo Dalmedo</p>
+    <p>©️ Created by Juanjo Dalmedo</p>
   </footer>
   `;
 };

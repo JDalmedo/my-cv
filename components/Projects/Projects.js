@@ -12,7 +12,7 @@ const template = () => {
       <li>
         <img src=${project.preview} alt=${project.title}/>
         <p>${project.description}</p>
-        <a href=${project.link}>Portfolio</a>
+        <a href=${project.link}>Ir a mi Portfolio</a>
       </li>
       `
         )

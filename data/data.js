@@ -53,7 +53,7 @@ const data = {
         title: "Portfolio Website",
         description:
           "He creado un sitio web de cartera profesional para mostrar mis habilidades y proyectos de desarrollo web. La aplicacción presenta un diseño limpio y 'responsive' y destaca algunos trabajos como desarrollador.",
-        link: "https://my-proyecto.vercel.app/",
+        link: "https://my-portfolio-git-main-jdalmedos-projects.vercel.app/",
         preview: "/imgs/Portfolio.png",
       },
     ],
